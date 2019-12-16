@@ -108,7 +108,7 @@
 # Contact widget
 
 - id: contact_name
-  translation: Name
+  translation: Nom
 
 - id: contact_email
   translation: Email
