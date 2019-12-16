@@ -5,7 +5,7 @@
 
 
 [[main]]
-  name = "Accueil"
+  name = "Présentation"
   url = "#about"
   weight = 10
 

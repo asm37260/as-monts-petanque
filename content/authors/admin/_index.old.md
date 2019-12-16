@@ -1,6 +1,6 @@
 ---
 # Display name
-name: As Monts Pétanque
+name: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: club affilié à la Fédération Française de Pétanque
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: et de Jeu Provençal (F.F.P.J.P.)
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
